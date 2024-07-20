@@ -1,11 +1,11 @@
 ## Greetings! 👋
 
-I'm Vladimir, a backend developer still in the learning phase. Recently, I've been diving into web development and making websites frequently. I'm always eager to learn new programming skills and take on new challenges.
+<div style="font-size: 18px">I'm Vladimir, a backend developer still in the learning phase. Recently, I've been diving into web development and making websites frequently. I'm always eager to learn new programming skills and take on new challenges.</div>
 
 ---
 
 ### ⚙️ Languages and Tools: 
-<div style="font-size: 16px;">Python, FastAPI, Django, sqlite3, HTML, CSS, JavaScript, Vue.js</div>
+<div style="font-size: 18px;">Python, FastAPI, Django, sqlite3, HTML, CSS, JavaScript, Vue.js</div>
 
 ---
 
