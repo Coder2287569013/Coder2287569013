@@ -4,8 +4,8 @@ I'm Vladimir, a backend developer still in the learning phase. Recently, I've be
 
 ---
 
-### ⚙️ Languages and Tools: 
-Python, FastAPI, Django, sqlite3, HTML, CSS, JavaScript, Vue.js
+### ⚙️ Stack: 
+Python, FastAPI, Django, sqlite3, HTML, CSS, JavaScript, Vue.js, React, DRF
 
 ---
 
