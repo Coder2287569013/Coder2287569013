@@ -5,7 +5,7 @@ I'm Vladimir, a backend developer still in the learning phase. Recently, I've be
 ---
 
 ### ⚙️ Stack: 
-Python, FastAPI, Django, sqlite3, HTML, CSS, JavaScript, Vue.js, React, DRF
+Python, FastAPI, Django, sqlite3, HTML, CSS, JavaScript, Vue.js, React, DRF, Docker
 
 ---
 
